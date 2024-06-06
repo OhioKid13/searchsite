@@ -1,3 +1,15 @@
+/* Styles for SearchSite */
+
+body {
+    background-color: #42f5ef; /* Change the color code as needed */
+}
+
+.container {
+    text-align: center; /* Center the text within the container horizontally */
+    align-items: center; /* Center items vertically */
+    background-color: #42f5ef; /* Change the color code as needed */
+}
+
 .form button {
     border: none;
     background: none;
